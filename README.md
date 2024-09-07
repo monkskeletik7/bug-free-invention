@@ -1,1 +1,1 @@
-# bug-free-invention
+# bug-free-inventionRepository for experimenting with code linters, formatters, and pre-commit hooks in a safe environment.
